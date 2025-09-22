@@ -1,4 +1,4 @@
-# Fundamentals Workshop
+# Eshin's Workshop
 
 Welcome to the fundamentals workshop! Our goals today are to:
 
